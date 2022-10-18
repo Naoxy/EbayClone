@@ -1,0 +1,20 @@
+{
+  "name": "ebayclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.16",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.0.0",
+    "path": "^0.12.7",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.7.5"
+  }
+}
