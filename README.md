@@ -8,8 +8,7 @@
 
 
 Smart Contract with Solidity |
-Etherscan(Rinkeby Testnet Network) : 
-Contract 0x86294D6b74767E8f53382Dc625536BC1E0960815
+
 
 
 ## Install
